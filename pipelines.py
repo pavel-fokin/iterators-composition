@@ -57,7 +57,7 @@ class Write:
 
 
 class Find:
-    """Find hazardous aseroid"""
+    """Find hazardous asteroid"""
 
     def __init__(self, *, field: str):
         self.field = field
